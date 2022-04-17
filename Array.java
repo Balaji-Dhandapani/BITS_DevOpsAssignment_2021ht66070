@@ -1,3 +1,6 @@
+/** modified by Ezhilvani
+    project manager name is Balaji
+    */
 public class ArrayExamples
 {	public static void main(String[] args)
 	{	int[] list = {1, 2, 3, 4, 1, 2, 3};
