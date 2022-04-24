@@ -1,3 +1,10 @@
+
+/**
+ 	Added by Balaji
+	New Project Manager is Balaji
+	This is a Java program to explain the Arrays
+ */
+
 public class ArrayExamples
 {	public static void main(String[] args)
 	{	int[] list = {1, 2, 3, 4, 1, 2, 3};
@@ -32,7 +39,7 @@ public class ArrayExamples
 		}
 
 		return indexOfMin;
-	}
+
 
 
 	/*
