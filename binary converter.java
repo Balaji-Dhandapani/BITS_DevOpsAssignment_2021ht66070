@@ -1,3 +1,5 @@
+/** added few lines of code 
+*/
 public class BinaryConverter {
     
     public static void main(String[] args){
